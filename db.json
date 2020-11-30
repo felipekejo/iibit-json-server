@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple MacBook Pro 13-inch with M1 chip, 256GB SSD (Silver) [2020]",
+      "price": 1799.10,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/494994-Product-0-I-637406995336668133_large.jpg"
+    },
+    {
+      "id": 2,
+      "title": "DELL E2720HS 27inch Full HD Monitor",
+      "price": 279,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475766-Product-0-I-637346344071343095_large.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Microsoft Office Home & Student 2019 [Digital Download]",
+      "price": 199,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/438740-Product-0-I-637230025270652255_large.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Canon Pixma TS6360 Home Printer",
+      "price": 139.9,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/411269-Product-0-I_large.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Apple iPad Air 64GB Wi-Fi (Space Grey) [4th Gen]",
+      "price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/487160-Product-0-I-637360350471174983_large.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Razer Cynosa V2 Gaming Keyboard",
+      "price": 75,
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475889-Product-0-I-637311105668476586_large.jpg"
+    }
+  ]
+}
