@@ -25,6 +25,14 @@
       "amount": 10
     }
   ],
+  "categories": [
+    "Computers",
+    "Monitors",
+    "Software",
+    "Printers",
+    "Tablets",
+    "Peripherals"
+  ],
   "products": [
     {
       "id": 1,
