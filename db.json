@@ -25,6 +25,38 @@
       "amount": 10
     }
   ],
+  "categories": [
+    {
+      "id": 1,
+      "category": "Computers",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/494994-Product-0-I-637406995336668133_large.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Monitors",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475766-Product-0-I-637346344071343095_large.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Software",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/438740-Product-0-I-637230025270652255_large.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Printers",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/411269-Product-0-I_large.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Tablets",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/487160-Product-0-I-637360350471174983_large.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Peripherals",
+      "image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/products/475889-Product-0-I-637311105668476586_large.jpg"
+    }
+  ],
   "products": [
     {
       "id": 1,
